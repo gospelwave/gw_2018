@@ -7,3 +7,5 @@
 - **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 This is the Gospel Wave Wordpress Theme.
+
+blablabla
