@@ -35,9 +35,7 @@
 		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php endif; ?>
 
-
-
-
+	<script src="https://js.churchcenter.com/modal/v1"></script>
 
 
 	<script>
